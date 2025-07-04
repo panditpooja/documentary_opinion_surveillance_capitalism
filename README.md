@@ -1,6 +1,6 @@
 # My Opinion on *Surveillance Capitalism* Documentary
 
-This repository contains my reflective opinion on the documentary *“The Age of Surveillance Capitalism”*, featuring Harvard professor Shoshana Zuboff. The documentary delivers a profound critique of surveillance capitalism, revealing how personal data is covertly harvested and monetized by tech giants.  
+This repository contains my reflective opinion on the documentary *“Surveillance Capitalism”*, featuring Harvard professor Shoshana Zuboff. The documentary delivers a profound critique of surveillance capitalism, revealing how personal data is covertly harvested and monetized by tech giants.  
 
 As a master's student studying the socio-economic impacts of technology through INFO 536 (*Data Science, Public Interest*), I found the documentary especially impactful for understanding how Silicon Valley commodifies behavioral data—often without user knowledge or consent—and the implications for democracy, privacy, and human autonomy.  
 
